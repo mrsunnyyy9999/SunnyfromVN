@@ -22,4 +22,4 @@ I aim to become a Cloud / DevSecOps Engineer.
 🌏 Languages
 Vietnamese (Native)
 Japanese (JLPT N2)
-English (TOEIC 675)
+English (TOEIC 645)
